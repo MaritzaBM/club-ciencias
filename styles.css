@@ -1,0 +1,21 @@
+body {
+	background-color: #ccffcc;
+}
+
+.container {
+	display: flex;
+}
+
+#navbar{
+	background-color: #ccffcc;
+	height: 100vh;
+	padding:  2%;
+}
+
+#content {
+	padding: 5%;
+	background-color: #5ac18e;
+}
+
+#tabla_1 { margin: 15px;
+  padding: 15px;}
